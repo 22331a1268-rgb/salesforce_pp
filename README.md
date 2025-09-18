@@ -1,3 +1,5 @@
+Title - The project Management 
+
 Freelancers like designers, developers, and artists often struggle with managing multiple projects, tracking deliverables, communicating with clients, and making sure they get paid on time. Unlike large companies, they don’t have access to project management and invoicing tools, which leads to inefficiencies, missed deadlines, and delayed payments.
 
 The proposed system, Freelance Project & Invoice Manager for Creatives, is a simple Customer Relationship and Project Management application designed for independent professionals. It offers a single platform to manage client information, create and track projects along with tasks, and generate invoices tied directly to deliverables. The system allows users to track invoice statuses—such as draft, sent, paid, and overdue—and sends automated reminders to clients for payments that are still pending.
